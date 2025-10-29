@@ -1,2 +1,0 @@
-# maven
-sample test
